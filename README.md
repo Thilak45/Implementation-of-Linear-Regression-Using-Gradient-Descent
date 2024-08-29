@@ -19,7 +19,7 @@ Step 4. IntiLiaze thhe program
 Step 5.End
 
 ## Program:
-
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: VELLACHI TILAK
@@ -75,7 +75,7 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
-
+```
 
 
 ## Output:
